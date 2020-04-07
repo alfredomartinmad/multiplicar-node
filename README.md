@@ -1,0 +1,1 @@
+Esto es un archivo de clase de ejemplo
